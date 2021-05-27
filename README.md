@@ -23,12 +23,12 @@ Skills: REACT / NEXT / JAVA / NODE / C# / C++ / MERN STACK
 
 <h1 align="center">GITHUB STATS </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-Avee)](https://github.com/anuraghazra/github-readme-stats)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-Avee' width="100%" height="300"></img>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijeet-Avee&show_icons=true&count_private=true)  
+<img src='https://github-readme-stats.vercel.app/api?username=Abhijeet-Avee&show_icons=true&count_private=true' width="100%" height="200"></img>  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abhijeet-Avee)  
+<img src='https://activity-graph.herokuapp.com/graph?username=Abhijeet-Avee' align="centre"></img>  
 
-![GitHub metrics](https://metrics.lecoq.io/Abhijeet-Avee)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet-Avee)  
+<img src='https://metrics.lecoq.io/Abhijeet-Avee' width="100%" height="500"></img>  
+  
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet-Avee' width="100%" height="250"></img>
