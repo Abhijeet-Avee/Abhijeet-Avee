@@ -1,6 +1,5 @@
-### Hi there 👋, Abhijeet
 #### Full Stack Development and Design
-![Full Stack Development and Design](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Full Stack Development and Design](https://github.com/Abhijeet-Avee/Abhijeet-Avee/blob/main/My%20Post.jpg)
 
 I love to create things that makes a difference. I really enjoy coding when it comes to learning new technology and concepts. I have got hand-on experience on REACT, NEXT, JAVA and ASP.NET . A quick learner and a keen observer defines me the best.
 
