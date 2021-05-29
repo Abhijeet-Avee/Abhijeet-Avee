@@ -13,7 +13,7 @@ Skills: REACT / NEXT / JAVA / NODE / C# / C++ / MERN STACK
 - 😄 Pronouns: BEAST 
 - ⚡ Fun fact: Learning is a never ending process, we just get upgraded to a new version!! 
 
-<img src="https://github.com/Abhijeet-Avee/Abhijeet-Avee/blob/main/tumblr_6a436467d20fc0d68c042a52c4f16bb8_225efbb3_400.gif" height='300' width='40%'>&nbsp;&nbsp;&nbsp;&nbsp;</img><img src="https://github.com/Abhijeet-Avee/Abhijeet-Avee/blob/main/responsive_stats.gif" width='55%' height='300'></img>
+<img src="https://github.com/Abhijeet-Avee/Abhijeet-Avee/blob/main/tumblr_6a436467d20fc0d68c042a52c4f16bb8_225efbb3_400.gif" height='200' width='40%'>&nbsp;&nbsp;&nbsp;&nbsp;</img><img src="https://github.com/Abhijeet-Avee/Abhijeet-Avee/blob/main/responsive_stats.gif" width='55%' height='200'></img>
 
 <h1 align="center">SOCIALS</h1>
 
